@@ -13,6 +13,7 @@ const Spacer = styled.span`
   min-width: ${getWidth}px;
   height: ${getHeight}px;
   min-height: ${getHeight}px;
+  flex: 1;
 `;
 
 export default Spacer;
